@@ -44,7 +44,7 @@ java -cp bin Exemplo
 
 Saída esperada:
 
-feliz!
+Olá, Mundo!
 
 
 ## ADD Github 
