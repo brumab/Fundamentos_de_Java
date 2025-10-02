@@ -45,3 +45,16 @@ java -cp bin Exemplo
 Saída esperada:
 
 feliz!
+
+
+## ADD Github 
+
+git init
+
+git add -A
+git add .
+
+git commit -m "fundamentos de java"
+
+git branch -M main
+git push -u origin main
